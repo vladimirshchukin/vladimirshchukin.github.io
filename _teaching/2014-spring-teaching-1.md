@@ -8,3 +8,4 @@ location: "City, Country"
 permalink: false
 share: false
 ---
+permalink: \
