@@ -1,12 +1,21 @@
 ---
 permalink: /teaching/
-title: "Microeconomics-3"
-type: "Teaching Assistant, Graduate course (In English)"
-venue: "CERGE-EI, Charles University"
-date: 2024-01-01
-location: "City, Country"
+title: "Teaching"
 share: false
 ---
+
+# Average teaching evaluation:
+
+CERGE-EI, Charles University (2023-2024 academic year): 4.24 / 5
+
+HSE University (2020-2021 academic year): 4.42 / 5
+
+Financial University under the Government of the Russian Federation (2020 year): 4.67 / 5
+
+#Courses:
+
+# Microeconomics-3
+Teaching Assistant, Graduate course (In English), <em>CERGE-EI, Charles University</em>, 2024
 # Applied Microeconomics-2
 Teaching Assistant, Graduate course (In English), <em>CERGE-EI, Charles University</em>, 2024
 # Microeconomics-1
