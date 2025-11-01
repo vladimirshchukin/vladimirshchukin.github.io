@@ -1,7 +1,7 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-date: "01-01-2026"
+date: false
 share: false
 output: false
 ---
