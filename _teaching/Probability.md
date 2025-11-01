@@ -5,11 +5,11 @@ title: "Teaching"
 
 # Average teaching evaluation:
 
-CERGE-EI, Charles University (2023-2024 academic year): 4.24 / 5
+<em>CERGE-EI, Charles University</em> (2023-2024 academic year): 4.24 / 5
 
-HSE University (2020-2021 academic year): 4.42 / 5
+<em>HSE University</em> (2020-2021 academic year): 4.42 / 5
 
-Financial University under the Government of the Russian Federation (2020 year): 4.67 / 5
+<em>Financial University under the Government of the Russian Federation</em> (2020 year): 4.67 / 5
 
 # Courses:
 
