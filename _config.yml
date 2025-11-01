@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+age# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Prague, the Czech Republic"
-  university         : "CERGE-EI, Charles University"
+  employer         : "CERGE-EI, Charles University"
   uri              : # URL
   email            : "vladimir.shchukin@cerge-ei.cz" 
 
