@@ -1,11 +1,11 @@
-
+earch
 
 main:
   - title: "CV"
     url: /cv/
 
   - title: "Research"
-    url: /publications/
+    url: /research/
 
   - title: "Teaching"
     url: /teaching/
