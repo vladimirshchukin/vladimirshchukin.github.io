@@ -1,5 +1,5 @@
 ---
-permalink: \
+permalink: /
 title: "Probability Theory and Mathematical Statistics"
 collection: teaching
 type: "Graduate course (In English)"
