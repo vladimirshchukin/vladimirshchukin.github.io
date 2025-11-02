@@ -2,7 +2,7 @@
 title: "Historical Origins of Human Capital Formation: Empirical Evidence from Prussian Reform Movement in the Early 19th Century"
 collection: publications
 category: wprogress
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-02-17-paper-title-number-5
 excerpt: ' '
 date: 2024-02-17
 venue: ' '
