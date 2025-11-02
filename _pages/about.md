@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<
+
    
     <p>
       I am a <strong>PhD candidate in Economics and Econometrics</strong> at 
