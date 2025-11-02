@@ -7,6 +7,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2022-01-01
 venue: 'Journal of Theoretical Politics'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Shchukin, V., & Arbatli, C. E. (2022). Clientelism and development: Vote-buying meets patronage. Journal of Theoretical Politics, 34(1), 3-34.'
 ---
