@@ -14,7 +14,7 @@ redirect_from:
 
   <!-- Left column: text -->
   <div style="flex: 1; min-width: 280px;">
-    <h2>Welcome to my webpage!</h2>
+
     <p>
       I am a <strong>PhD candidate in Economics and Econometrics</strong> at 
       <a href="https://cerge-ei.cz/" target="_blank">CERGE-EI</a>, Charles University.
@@ -25,6 +25,7 @@ redirect_from:
     </p>
     <p>
       <strong>Primary fields:</strong> Political Economy, Economic Growth<br>
+      
       <strong>Secondary fields:</strong> Applied Microeconomics, Economic History
     </p>
     <p><strong>Email:</strong> vladimir.shchukin@cerge-ei.cz</p>
