@@ -41,10 +41,5 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands",
 
-   /* Custom avatar size override */
-.author__avatar img {
-  width: 160px !important;   /* Adjust size here (try 160–200px) */
-  height: auto !important;   /* Keeps correct proportions */
-  border-radius: 8px;        /* Optional – makes corners softer */
-}
+;
 
