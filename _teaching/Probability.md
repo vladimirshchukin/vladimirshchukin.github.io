@@ -1,4 +1,10 @@
-
+---
+permalink: /teaching/
+title: "Teaching"
+date: "01-01-2026"
+share: false
+output: false
+---
 
 # Average teaching evaluation:
 
