@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+files/485.jpg
 I am a PhD candidate in Economics and Econometrics at [CERGE-EI,](https://cerge-ei.cz/) Charles University
 
 My primary fields: Political economy
