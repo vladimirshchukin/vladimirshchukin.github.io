@@ -29,7 +29,7 @@ redirect_from:
       <strong>Secondary fields:</strong> Applied Microeconomics, Economic History
     </p>
     <p><strong>Email:</strong> vladimir.shchukin@cerge-ei.cz</p>
-  </div>
+ 
 
   <!-- Right column: photo -->
   <div style="flex-shrink: 0;">
