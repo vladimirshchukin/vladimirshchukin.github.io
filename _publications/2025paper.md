@@ -1,5 +1,6 @@
 ---
-title: "<a href='/publication/2025paper/'>Economic Growth and Social Conflict</a> <span style='color:black'>(with Dmitry Veselov)</span>"
+title: "Economic Growth and Social Conflict"
+subtitle: "(with Dmitry Veselov)"
 collection: publications
 category: wprogress
 permalink: /publication/2025paper
