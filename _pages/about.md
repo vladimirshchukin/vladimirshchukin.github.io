@@ -7,22 +7,30 @@ redirect_from:
   - /about.html
 ---
 
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
 
-<p>
-  I am a <strong>PhD candidate in Economics and Econometrics</strong> at 
-  <a href="https://cerge-ei.cz/" target="_blank">CERGE-EI</a>, Charles University.
-</p>
+  <!-- Left column: text -->
+  <div style="flex: 1; min-width: 280px;">
+    <h2>Welcome to my webpage!</h2>
+    <p>
+      I am a <strong>PhD candidate in Economics and Econometrics</strong> at 
+      <a href="https://cerge-ei.cz/" target="_blank">CERGE-EI</a>, Charles University.
+    </p>
+    <p>
+      My research lies at the intersection of <strong>Political Economy</strong> and 
+      <strong>Economic Growth</strong>, combining both theoretical modeling and applied empirical analysis.
+    </p>
+    <p>
+      <strong>Primary fields:</strong> Political Economy, Economic Growth<br>
+      <strong>Secondary fields:</strong> Applied Microeconomics, Economic History
+    </p>
+    <p><strong>Email:</strong> vladimir.shchukin@cerge-ei.cz</p>
+  </div>
 
-<p>
-  My research lies at the intersection of <strong>Political Economy</strong> and 
-  <strong>Economic Growth</strong>, combining both theoretical modeling and applied empirical analysis.
-</p>
+  <!-- Right column: photo -->
+  <div style="flex-shrink: 0;">
+    <img src="{{ '/assets/images/photo.jpg' | relative_url }}" alt="Vladimir Shchukin" 
+         style="width:220px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.2); object-fit:cover;">
+  </div>
 
-<p>
-  <strong>Primary fields:</strong> Political Economy, Economic Growth<br>
-  <strong>Secondary fields:</strong> Applied Microeconomics, Economic History
-</p>
-
-<p>
-  <strong>Email:</strong> vladimir.shchukin@cerge-ei.cz
-</p>
+</div>
