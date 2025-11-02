@@ -40,5 +40,3 @@ redirect_from:
 
 
 
-
-![image 1](./111.jpg "Image 1")
