@@ -30,7 +30,7 @@ redirect_from:
   </div>
 
   <!-- Right column: photo -->
-  <div style="flex-shrink: 0;">
+  <div style="flex-shrink: 0; margin-top:-20px;">
      <img src="./111.jpg" alt="Vladimir Shchukin" 
          style="width:350px; border-radius:10px; box-shadow:0 2px 8px rgba(0,0,0,0.2); object-fit:cover;">
   </div>
