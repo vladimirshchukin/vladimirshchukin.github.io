@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
 
@@ -35,3 +35,7 @@ redirect_from:
   </div>
 
 </div>
+
+---
+
+
