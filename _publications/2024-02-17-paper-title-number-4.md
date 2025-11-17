@@ -1,5 +1,5 @@
 ---
-title: "Political Economy of Industrialization"
+title: "Political Economy of Industrialization (Job market paper)"
 collection: publications
 category: wpapers
 permalink: /publication/2024-02-17-paper-title-number-4
