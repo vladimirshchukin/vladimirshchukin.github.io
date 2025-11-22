@@ -1,5 +1,5 @@
 ---
-title: "Historical Origins of Human Capital Formation: Empirical Evidence from Prussian Reform Movement in the Early 19th Century"
+title: "Sources of Upper-Tail Human Capital: Evidence from Prussian Education Reform"
 collection: publications
 category: wprogress
 permalink: /publication/2024-02-17-paper-title-number-5
