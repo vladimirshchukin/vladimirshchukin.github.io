@@ -2,7 +2,7 @@
 title: "Sources of Upper-Tail Human Capital: Evidence from Prussian Education Reform"
 collection: publications
 category: wprogress
-permalink: /publication/2024-02-17-paper-title-number-5
+permalink: /research/2024-02-17-paper-title-number-5
 excerpt: 'Coauthors: Konstantin Bakharev and Roman Dimakov'
 date: 2024-02-17
 venue: ' '
