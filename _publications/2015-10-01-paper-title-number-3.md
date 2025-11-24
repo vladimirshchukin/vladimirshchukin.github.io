@@ -2,7 +2,7 @@
 title: "Clientelism and development: Vote-buying meets patronage"
 collection: publications
 category: publics
-permalink: /reserach/2015-10-01-paper-title-number-3
+permalink: /publications/2015-10-01-paper-title-number-3
 excerpt: 'Coautor: Cemal Eren Arbatli'
 date: 2022-01-01
 venue: 'Journal of Theoretical Politics'
