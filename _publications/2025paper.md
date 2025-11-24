@@ -1,7 +1,7 @@
 ---
 title: "Economic Growth and Social Conflict"
 
-collection: publications
+collection: research
 category: wprogress
 permalink: /research/2025paper
 excerpt: 'Coauthor: Dmitry Veselov'
