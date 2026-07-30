@@ -1,5 +1,5 @@
 ---
-title: "Sources of Upper-Tail Human Capital: Evidence from Prussian Education Reform"
+title: "Sources of Upper-Tail Human Capital: Evidence from the Prussian Education Reforms in the Early 19th Century "
 collection: publications
 category: wprogress
 permalink: /publication/2024-02-17-paper-title-number-5
