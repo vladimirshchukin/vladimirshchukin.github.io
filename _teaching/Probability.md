@@ -8,7 +8,7 @@ output: false
 
 # Average teaching evaluation:
 
-<em>CERGE-EI, Charles University</em> (2023-2024 academic year): 4.39 / 5
+<em>CERGE-EI, Charles University</em> (Average evaluation): 4.39 / 5
 
 <em>HSE University</em> (2020-2021 academic year): 4.42 / 5
 
@@ -29,7 +29,7 @@ Teaching Assistant, Graduate course (In English), <em>CERGE-EI, Charles Universi
 Teaching Assistant, Undergraduate course (In Russian), <em>HSE University</em>, 2020-2021
 # Macroeconomics
 Teaching Assistant, Undergraduate course (In Russian), <em>HSE University</em>, 2019-2021
-# Computer workshop (Programming in R)
+# Introduction to Programming in R
 Lecturer, Undergraduate course (In Russian), <em>Financial University under the Government of the Russian Federation</em>, 2018-2021
 # Mathematics
 Teaching Assistant, Undergraduate course (In Russian), <em>Financial University under the Government of the Russian Federation</em>, 2018-2021
