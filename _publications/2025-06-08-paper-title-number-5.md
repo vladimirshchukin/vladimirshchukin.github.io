@@ -3,7 +3,7 @@ title: "Sources of Upper-Tail Human Capital: Evidence from the Prussian Educatio
 collection: publications
 category: wprogress
 permalink: /publication/2024-02-17-paper-title-number-5
-excerpt: 'Coauthors: Konstantin Bakharev, Roman Dimakov, and Margarita Pavlova'
+excerpt: 'Coauthors: Konstantin Bakharev, [Roman Dimakov](https://sites.google.com/view/roman-dimakov/home?authuser=0), and [Margarita Pavlova](https://margarita-pavlova.github.io/)'
 date: 2024-02-17
 venue: ' '
 share: false
