@@ -26,6 +26,9 @@ redirect_from:
     <p>
       <strong>Secondary fields:</strong> Applied Microeconomics, Economic History
     </p>
+
+I will be on the 2026-2027 academic job market.
+    
     <p><strong>Email:</strong> vladimir.shchukin@cerge-ei.cz</p>
   </div>
 
