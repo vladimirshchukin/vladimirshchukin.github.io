@@ -15,15 +15,16 @@ output: false
 <em>Financial University under the Government of the Russian Federation</em> (2020 year): 4.67 / 5
 
 # Courses:
-
+# Statistics: Foundations of Data Science
+Teaching Assistant, Graduate course (In English), <em>CERGE-EI, Charles University</em>, 2026
+# Econometrics: Program Evaluation
+Teaching Assistant, Graduate course (In English), <em>CERGE-EI, Charles University</em>, 2026
 # Microeconomics-3
-Teaching Assistant, Graduate course (In English), <em>CERGE-EI, Charles University</em>, 2024
+Teaching Assistant, Graduate course (In English), <em>CERGE-EI, Charles University</em>, 2024,2026
 # Applied Microeconomics-2
 Teaching Assistant, Graduate course (In English), <em>CERGE-EI, Charles University</em>, 2024
 # Microeconomics-1
 Teaching Assistant, Graduate course (In English), <em>CERGE-EI, Charles University</em>, 2023-2024
-# Microeconomics-2
-Teaching Assistant, Undergraduate course (In English), <em>HSE University</em>, 2020
 # Microeconomics-1
 Teaching Assistant, Undergraduate course (In Russian), <em>HSE University</em>, 2020-2021
 # Macroeconomics
