@@ -25,8 +25,6 @@ Teaching Assistant, Graduate course (In English), <em>CERGE-EI, Charles Universi
 Teaching Assistant, Graduate course (In English), <em>CERGE-EI, Charles University</em>, 2024
 # Microeconomics-1
 Teaching Assistant, Graduate course (In English), <em>CERGE-EI, Charles University</em>, 2023-2024
-# Microeconomics-1
-Teaching Assistant, Undergraduate course (In Russian), <em>HSE University</em>, 2020-2021
 # Macroeconomics
 Teaching Assistant, Undergraduate course (In Russian), <em>HSE University</em>, 2019-2021
 # Introduction to Programming in R
