@@ -8,7 +8,7 @@ output: false
 
 # Average teaching evaluation:
 
-<em>CERGE-EI, Charles University</em> (Average evaluation): 4.39 / 5
+<em>CERGE-EI, Charles University</em> (2023-2026): 4.39 / 5
 
 <em>HSE University</em> (2020-2021 academic year): 4.42 / 5
 
