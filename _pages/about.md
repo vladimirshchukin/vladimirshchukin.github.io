@@ -28,7 +28,7 @@ redirect_from:
     </p>
     
  <p>
-I will be on the 2026-2027 academic job market.
+I will be on the <strong>2026-2027 academic job market</strong>.
 </p>  
 
     <p><strong>Email:</strong> vladimir.shchukin@cerge-ei.cz</p>
