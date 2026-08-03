@@ -15,6 +15,13 @@
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
     "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
 
+    .author__avatar img {
+    width: 872px;
+    height: 333px;
+    border-radius: 50%; /* optional, keeps it circular */
+}
+
+   
     "include/mixins",
     "vendor/susy/susy",
 
