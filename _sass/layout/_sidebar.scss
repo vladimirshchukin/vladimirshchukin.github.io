@@ -84,12 +84,12 @@
   display: table-cell;
   vertical-align: top;
   width: 872px;
-  height: 333px}
+  height: 333px
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
-    height: auto;
+    width: 872px;
+    height: 333px;
   }
 
   img {
