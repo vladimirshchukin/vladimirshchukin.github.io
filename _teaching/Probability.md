@@ -31,7 +31,5 @@ Teaching Assistant, Undergraduate course (In Russian), <em>HSE University</em>, 
 Lecturer, Undergraduate course (In Russian), <em>Financial University under the Government of the Russian Federation</em>, 2018-2021
 # Mathematics
 Teaching Assistant, Undergraduate course (In Russian), <em>Financial University under the Government of the Russian Federation</em>, 2018-2021
-# Trade policy
-Teaching Assistant, Graduate course (In English), <em>HSE University</em>, 2018
 # Probability Theory and Mathematical Statistics
 Teaching Assistant, Graduate course (In English), <em>HSE University</em>, 2017
