@@ -8,10 +8,10 @@ redirect_from:
 
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 24px; flex-wrap: wrap;">
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
   <!-- Left column: text -->
-  <div style="flex: 1 1 30em; min-width: 0; text-align: justify;">
+  <div style="flex: 1 1 470px; min-width: 0; text-align: justify;">
     <p style="margin-top: 30px;">
       I am a <strong>PhD candidate in Economics and Econometrics</strong> at
       <a href="https://cerge-ei.cz/" target="_blank">CERGE-EI</a>, Charles University.
@@ -44,12 +44,11 @@ redirect_from:
   </div>
 
   <!-- Right column: photo -->
-  <div style="flex: 0 1 280px; max-width: 100%;">
+  <div style="flex: 0 1 260px; max-width: 100%;">
     <img src="./1.jpg" alt="Vladimir Shchukin"
          style="display: block; width: 100%; height: auto; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);">
   </div>
 
 </div>
- 
 
 
