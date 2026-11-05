@@ -37,7 +37,7 @@ redirect_from:
     </p>
 
     <p>
-      I am on the <strong>2026–2027 academic job market</strong>.
+      I am on the <strong>2026–2027 academic job market</strong>. My job market paper is <a href="https://www.dropbox.com/scl/fi/5gvjsvz12jvw2s1ururhv/Shchukin__Political_economy_of_industrialization.pdf?rlkey=yli24manzzusirbcr8wto7o2d&st=nqw4glb3&e=2&dl=0" target="_blank">here</a>.
     </p>
 
     <p><strong>Email:</strong> vladimir.shchukin@cerge-ei.cz</p>
