@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 80px; flex-wrap: wrap;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 60px; flex-wrap: wrap;">
 
   <!-- Left column: text -->
   <div style="flex: 1; min-width: 280px; text-align: justify;">
