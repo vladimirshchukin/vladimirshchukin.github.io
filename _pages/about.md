@@ -16,7 +16,7 @@ redirect_from:
       I am a <strong>PhD candidate in Economics and Econometrics</strong> at 
       <a href="https://cerge-ei.cz/" target="_blank">CERGE-EI</a>, Charles University. In Spring 2025, I visited <a href="https://harris.uchicago.edu/" target="_blank">the University of Chicago Harris School of Public Policy</a>.
     </p>
-    <p text-align: justify>
+    <p>
       My research lies at the intersection of <strong>Political Economy</strong> and 
       <strong>Economic Growth</strong>, combining both theoretical modeling and applied empirical analysis.
     </p>
