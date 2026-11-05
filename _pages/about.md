@@ -32,7 +32,7 @@ I am on the <strong>2026-2027 academic job market</strong>.
 </p>  
     
  <p>
-I am on the <strong>2026-2027 academic job market</strong>.
+My supervisor is  <a href="https://sites.google.com/site/jzapal/" target="_blank">Jan Zapal</a>.
 </p>  
 
     <p><strong>Email:</strong> vladimir.shchukin@cerge-ei.cz</p>
