@@ -14,9 +14,9 @@ redirect_from:
   <div style="flex: 1; min-width: 280px;">
     <p style="margin-top: 30px;">
       I am a <strong>PhD candidate in Economics and Econometrics</strong> at 
-      <a href="https://cerge-ei.cz/" target="_blank">CERGE-EI</a>, Charles University.
+      <a href="https://cerge-ei.cz/" target="_blank">CERGE-EI</a>, Charles University. In Spring 2025, I visited <a href="https://harris.uchicago.edu/" target="_blank">the University of Chicago Harris School of Public Policy</a>.
     </p>
-    <p>
+    <p text-align: justify>
       My research lies at the intersection of <strong>Political Economy</strong> and 
       <strong>Economic Growth</strong>, combining both theoretical modeling and applied empirical analysis.
     </p>
@@ -26,9 +26,13 @@ redirect_from:
     <p>
       <strong>Secondary fields:</strong> Applied Microeconomics, Economic History
     </p>
+
+ <p>
+I am on the <strong>2026-2027 academic job market</strong>.
+</p>  
     
  <p>
-I will be on the <strong>2026-2027 academic job market</strong>.
+I am on the <strong>2026-2027 academic job market</strong>.
 </p>  
 
     <p><strong>Email:</strong> vladimir.shchukin@cerge-ei.cz</p>
