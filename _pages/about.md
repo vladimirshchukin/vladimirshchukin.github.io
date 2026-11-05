@@ -24,9 +24,9 @@ redirect_from:
       <strong>Economic Growth</strong>, combining both theoretical modeling and applied empirical analysis.
     </p>
 
-    <p>
-      <strong>Primary fields:</strong> Political Economy, Microeconomic Theory
-    </p>
+<p style="text-align: left; white-space: nowrap;">
+  <strong>Primary fields:</strong> Political Economy, Microeconomic Theory
+</p>
 
     <p>
       <strong>Secondary fields:</strong> Applied Microeconomics, Economic History
