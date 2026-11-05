@@ -8,10 +8,10 @@ redirect_from:
 
 ---
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 60px; flex-wrap: wrap;">
+<div style="display: flex; align-items: flex-start; gap: 24px; flex-wrap: wrap;">
 
   <!-- Left column: text -->
-  <div style="flex: 1; min-width: 280px; text-align: justify;">
+  <div style="flex: 1 1 30em; min-width: 0; text-align: justify;">
     <p style="margin-top: 30px;">
       I am a <strong>PhD candidate in Economics and Econometrics</strong> at
       <a href="https://cerge-ei.cz/" target="_blank">CERGE-EI</a>, Charles University.
@@ -24,11 +24,11 @@ redirect_from:
       <strong>Economic Growth</strong>, combining both theoretical modeling and applied empirical analysis.
     </p>
 
-<p style="text-align: left; white-space: nowrap;">
-  <strong>Primary fields:</strong> Political Economy, Microeconomic Theory
-</p>
+    <p style="text-align: left;">
+      <strong>Primary&nbsp;fields:</strong> Political Economy, Microeconomic Theory
+    </p>
 
-    <p>
+    <p style="text-align: left;">
       <strong>Secondary fields:</strong> Applied Microeconomics, Economic History
     </p>
 
@@ -44,13 +44,12 @@ redirect_from:
   </div>
 
   <!-- Right column: photo -->
-  <div style="flex-shrink: 0; margin-top: -40px;">
+  <div style="flex: 0 1 280px; max-width: 100%;">
     <img src="./1.jpg" alt="Vladimir Shchukin"
-         style="width: 350px; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); object-fit: cover;">
+         style="display: block; width: 100%; height: auto; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);">
   </div>
 
 </div>
-
  
 
 
